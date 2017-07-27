@@ -1,0 +1,16 @@
+[
+{
+  "modid": "umc",
+  "name": "Magical Code",
+  "description": "Example placeholder mod.",
+  "version": "0.1-alpha",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ukilop"],
+  "credits": "Loremaster: for providing tutorials on how to make mods.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
